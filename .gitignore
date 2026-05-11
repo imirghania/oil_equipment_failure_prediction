@@ -13,5 +13,8 @@ wheels/
 **/*/__pycache__/
 **/*/__marimo__/
 **/*/.ipynb_checkpoints/
+.ipynb_checkpoints/
+models/
+app/
 
 notebooks/*.ipynb
